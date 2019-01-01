@@ -1,0 +1,11 @@
+#ifndef MPI_PARALLELMATRIXMULTIPLICATION_NODE_H
+#define MPI_PARALLELMATRIXMULTIPLICATION_NODE_H
+
+
+class Node {
+public:
+    virtual void start() const = 0;
+};
+
+
+#endif //MPI_PARALLELMATRIXMULTIPLICATION_NODE_H

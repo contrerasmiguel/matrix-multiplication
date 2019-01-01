@@ -1,0 +1,124 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/common/Programación/C y C++/Parallel Matrix Multiplication/MPI/Smart Version/ParallelMatrixMultiplication/src/Input.cpp
+Input.h
+/media/common/Programación/C y C++/Parallel Matrix Multiplication/MPI/Smart Version/ParallelMatrixMultiplication/src/Input.h
+
+/media/common/Programación/C y C++/Parallel Matrix Multiplication/MPI/Smart Version/ParallelMatrixMultiplication/src/Input.h
+iostream
+-
+
+/media/common/Programación/C y C++/Parallel Matrix Multiplication/MPI/Smart Version/ParallelMatrixMultiplication/src/Master.cpp
+Master.h
+/media/common/Programación/C y C++/Parallel Matrix Multiplication/MPI/Smart Version/ParallelMatrixMultiplication/src/Master.h
+
+/media/common/Programación/C y C++/Parallel Matrix Multiplication/MPI/Smart Version/ParallelMatrixMultiplication/src/Master.h
+algorithm
+-
+limits
+-
+sstream
+-
+mpi.h
+/media/common/Programación/C y C++/Parallel Matrix Multiplication/MPI/Smart Version/ParallelMatrixMultiplication/src/mpi.h
+Input.h
+/media/common/Programación/C y C++/Parallel Matrix Multiplication/MPI/Smart Version/ParallelMatrixMultiplication/src/Input.h
+Matrix.h
+/media/common/Programación/C y C++/Parallel Matrix Multiplication/MPI/Smart Version/ParallelMatrixMultiplication/src/Matrix.h
+Multiplication.h
+/media/common/Programación/C y C++/Parallel Matrix Multiplication/MPI/Smart Version/ParallelMatrixMultiplication/src/Multiplication.h
+Parallel.h
+/media/common/Programación/C y C++/Parallel Matrix Multiplication/MPI/Smart Version/ParallelMatrixMultiplication/src/Parallel.h
+Node.h
+/media/common/Programación/C y C++/Parallel Matrix Multiplication/MPI/Smart Version/ParallelMatrixMultiplication/src/Node.h
+
+/media/common/Programación/C y C++/Parallel Matrix Multiplication/MPI/Smart Version/ParallelMatrixMultiplication/src/Matrix.cpp
+Matrix.h
+/media/common/Programación/C y C++/Parallel Matrix Multiplication/MPI/Smart Version/ParallelMatrixMultiplication/src/Matrix.h
+
+/media/common/Programación/C y C++/Parallel Matrix Multiplication/MPI/Smart Version/ParallelMatrixMultiplication/src/Matrix.h
+random
+-
+sstream
+-
+
+/media/common/Programación/C y C++/Parallel Matrix Multiplication/MPI/Smart Version/ParallelMatrixMultiplication/src/Multiplication.cpp
+Multiplication.h
+/media/common/Programación/C y C++/Parallel Matrix Multiplication/MPI/Smart Version/ParallelMatrixMultiplication/src/Multiplication.h
+
+/media/common/Programación/C y C++/Parallel Matrix Multiplication/MPI/Smart Version/ParallelMatrixMultiplication/src/Multiplication.h
+Matrix.h
+/media/common/Programación/C y C++/Parallel Matrix Multiplication/MPI/Smart Version/ParallelMatrixMultiplication/src/Matrix.h
+
+/media/common/Programación/C y C++/Parallel Matrix Multiplication/MPI/Smart Version/ParallelMatrixMultiplication/src/Node.h
+
+/media/common/Programación/C y C++/Parallel Matrix Multiplication/MPI/Smart Version/ParallelMatrixMultiplication/src/Parallel.cpp
+Parallel.h
+/media/common/Programación/C y C++/Parallel Matrix Multiplication/MPI/Smart Version/ParallelMatrixMultiplication/src/Parallel.h
+
+/media/common/Programación/C y C++/Parallel Matrix Multiplication/MPI/Smart Version/ParallelMatrixMultiplication/src/Parallel.h
+vector
+-
+cmath
+-
+mpi.h
+/media/common/Programación/C y C++/Parallel Matrix Multiplication/MPI/Smart Version/ParallelMatrixMultiplication/src/mpi.h
+Multiplication.h
+/media/common/Programación/C y C++/Parallel Matrix Multiplication/MPI/Smart Version/ParallelMatrixMultiplication/src/Multiplication.h
+Worker.h
+/media/common/Programación/C y C++/Parallel Matrix Multiplication/MPI/Smart Version/ParallelMatrixMultiplication/src/Worker.h
+
+/media/common/Programación/C y C++/Parallel Matrix Multiplication/MPI/Smart Version/ParallelMatrixMultiplication/src/Worker.cpp
+Worker.h
+/media/common/Programación/C y C++/Parallel Matrix Multiplication/MPI/Smart Version/ParallelMatrixMultiplication/src/Worker.h
+
+/media/common/Programación/C y C++/Parallel Matrix Multiplication/MPI/Smart Version/ParallelMatrixMultiplication/src/Worker.h
+mpi.h
+/media/common/Programación/C y C++/Parallel Matrix Multiplication/MPI/Smart Version/ParallelMatrixMultiplication/src/mpi.h
+Node.h
+/media/common/Programación/C y C++/Parallel Matrix Multiplication/MPI/Smart Version/ParallelMatrixMultiplication/src/Node.h
+Parallel.h
+/media/common/Programación/C y C++/Parallel Matrix Multiplication/MPI/Smart Version/ParallelMatrixMultiplication/src/Parallel.h
+
+/media/common/Programación/C y C++/Parallel Matrix Multiplication/MPI/Smart Version/ParallelMatrixMultiplication/src/main.cpp
+main.h
+/media/common/Programación/C y C++/Parallel Matrix Multiplication/MPI/Smart Version/ParallelMatrixMultiplication/src/main.h
+
+/media/common/Programación/C y C++/Parallel Matrix Multiplication/MPI/Smart Version/ParallelMatrixMultiplication/src/main.h
+cstdlib
+-
+memory
+-
+mpi.h
+/media/common/Programación/C y C++/Parallel Matrix Multiplication/MPI/Smart Version/ParallelMatrixMultiplication/src/mpi.h
+Master.h
+/media/common/Programación/C y C++/Parallel Matrix Multiplication/MPI/Smart Version/ParallelMatrixMultiplication/src/Master.h
+Worker.h
+/media/common/Programación/C y C++/Parallel Matrix Multiplication/MPI/Smart Version/ParallelMatrixMultiplication/src/Worker.h
+
+/usr/include/mpich/mpi.h
+stddef.h
+-
+cstdint
+-
+stdint.h
+-
+mpio.h
+/usr/include/mpich/mpio.h
+mpicxx.h
+/usr/include/mpich/mpicxx.h
+
+/usr/include/mpich/mpicxx.h
+stdio.h
+-
+
+/usr/include/mpich/mpio.h
+mpi.h
+/usr/include/mpich/mpi.h
+

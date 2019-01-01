@@ -1,0 +1,3 @@
+/media/common/Programación/C y C++/Parallel Matrix Multiplication/MPI/Smart Version/ParallelMatrixMultiplication/CMakeFiles/edit_cache.dir
+/media/common/Programación/C y C++/Parallel Matrix Multiplication/MPI/Smart Version/ParallelMatrixMultiplication/CMakeFiles/rebuild_cache.dir
+/media/common/Programación/C y C++/Parallel Matrix Multiplication/MPI/Smart Version/ParallelMatrixMultiplication/CMakeFiles/PMM.dir
